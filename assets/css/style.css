@@ -202,7 +202,7 @@ a {
 }
 
 #coming-soon {
-    background-image: url("/assets/images/coastline.jpg");
+    background-image: url("");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -296,7 +296,7 @@ a {
 
     .about-me-section{
         flex-direction: row;
-        background-image: url("/assets/images/selfieResize.png");
+        background-image: url("/assets/images/selfie.png");
         background-repeat: no-repeat;
         background-size: 400px 400px;
         background-color: indianred;
